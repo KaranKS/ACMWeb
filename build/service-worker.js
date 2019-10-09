@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ACMWeb/precache-manifest.e54212ad7b0840e6dc7bb3c19d72d448.js"
+  "iitr.acm.org/precache-manifest.a9fb0491c8087a19ff3e1f649ec64ff6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ACMWeb/index.html", {
+workbox.routing.registerNavigationRoute("iitr.acm.org/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
