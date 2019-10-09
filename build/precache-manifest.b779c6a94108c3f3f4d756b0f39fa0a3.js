@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "iitr.acm.org/static/media/Appetizer.904db053.webp"
   },
   {
-    "revision": "488ac28bcb2cec75af63",
+    "revision": "ee725c4ff25a02069b9b",
     "url": "iitr.acm.org/static/css/main.1e3f31f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "iitr.acm.org/static/js/runtime~main.7e8ae206.js"
   },
   {
-    "revision": "874e399e63f3006a89fa",
-    "url": "iitr.acm.org/static/js/2.58920829.chunk.js"
+    "revision": "0fe73d0666f7e85acdd3",
+    "url": "iitr.acm.org/static/js/2.7aa8bc83.chunk.js"
   },
   {
     "revision": "513a2b500b9569d39a030722e7ff02de",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "iitr.acm.org/static/media/7.3d7e97ab.png"
   },
   {
-    "revision": "488ac28bcb2cec75af63",
-    "url": "iitr.acm.org/static/js/main.b3cb9716.chunk.js"
+    "revision": "ee725c4ff25a02069b9b",
+    "url": "iitr.acm.org/static/js/main.de996586.chunk.js"
   },
   {
     "revision": "1407233b5bc49ffdd29f4c4b86df38e1",
@@ -204,7 +204,7 @@ self.__precacheManifest = [
     "url": "iitr.acm.org/static/media/tedx.ad68d421.svg"
   },
   {
-    "revision": "375e1d78a0ae0c0df81eea81f3e03a28",
+    "revision": "e1a91b4e1360186ca0c0c92152ca63a2",
     "url": "iitr.acm.org/index.html"
   }
 ];
