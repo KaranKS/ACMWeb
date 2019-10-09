@@ -11,7 +11,7 @@ import Sample from './components/Sample';
 import ProjectDetail from './components/projects/ProjectDetail'
 
 export default props => (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={process.env.PUBLIC_URL + '/'}>
       <ScrollToTop>
         <Switch>
           <Route exact path='/' component={ Home } />
